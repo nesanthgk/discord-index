@@ -1,0 +1,12 @@
+{
+  "name": "discord-index",
+  "version": "1.0.0",
+  "description": "Static site for altego Discord bot",
+  "homepage": "https://nesanthgk.github.io/discord-index",
+  "scripts": {
+    "deploy": "gh-pages -d ."
+  },
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
+  }
+}
