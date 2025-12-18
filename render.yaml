@@ -1,0 +1,7 @@
+services:
+  - type: static
+    name: discord-intro
+    env: static
+    repo: nesanthgk/discord-index
+    branch: main
+    root: intro
