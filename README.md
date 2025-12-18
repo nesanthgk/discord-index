@@ -1,1 +1,1 @@
-egoist
+egoist 1.0
